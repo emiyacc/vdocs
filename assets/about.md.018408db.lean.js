@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as o}from"./chunks/framework.eabe3503.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{"outline":false},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),s={name:"about.md"},r=o("",9),i=[r];function l(n,p,c,h,d,_){return e(),t("div",null,i)}const f=a(s,[["render",l]]);export{g as __pageData,f as default};
